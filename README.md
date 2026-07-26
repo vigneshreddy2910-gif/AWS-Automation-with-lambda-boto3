@@ -75,7 +75,7 @@ Automatically tag newly launched EC2 instances for ownership and cost allocation
 
 📄 **Documentation**
 
-➡️ [Task 3 – Auto Tag EC2](./Task-3/readme.md)
+➡️ [Task 3 – Auto Tag EC2](./Task-3/Readme.md)
 
 ---
 
