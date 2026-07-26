@@ -38,7 +38,7 @@ Automate deletion of stale objects from an Amazon S3 bucket.
 
 📄 **Documentation**
 
-➡️ [Task 1 – S3 Bucket Cleanup](./Task-1-S3-Bucket-Cleanup/readme.md)
+➡️ [Task 1 – S3 Bucket Cleanup](./Task-1/readme.md)
 
 ---
 
@@ -57,7 +57,7 @@ Automatically create snapshots for an EBS volume and remove snapshots older than
 
 📄 **Documentation**
 
-➡️ [Task 2 – EBS Snapshot Automation](./Task-2-EBS-Snapshot/readme.md)
+➡️ [Task 2 – EBS Snapshot Automation](./Task-2/readme.md)
 
 ---
 
@@ -75,7 +75,7 @@ Automatically tag newly launched EC2 instances for ownership and cost allocation
 
 📄 **Documentation**
 
-➡️ [Task 3 – Auto Tag EC2](./Task-3-AutoTag-EC2/readme.md)
+➡️ [Task 3 – Auto Tag EC2](./Task-3/readme.md)
 
 ---
 
@@ -95,7 +95,7 @@ Audit all S3 buckets for public accessibility and notify administrators using SN
 
 📄 **Documentation**
 
-➡️ [Task 6 – S3 Public Audit](./Task-6-S3-Public-Audit/readme.md)
+➡️ [Task 6 – S3 Public Audit](./Task-6/readme.md)
 
 ---
 
