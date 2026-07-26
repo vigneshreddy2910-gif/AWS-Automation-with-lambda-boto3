@@ -136,7 +136,8 @@ Attach a custom inline policy to the role created in the previous step.
 The policy file is available in this repository.
 
 ```
-Task-1/LambdaS3Cleanuppolicy.json
+Task-1/LambdaS3CleanupPolicy.json(./Task-3/LambdaS3CleanupPolicy.json)
+
 ```
 
 ### Permissions Included
@@ -185,7 +186,8 @@ Select the IAM Role created previously.
 After the function has been created, replace the default source code with the implementation available in this repository.
 
 ```
-Task-1/lambda_function.py
+Task-1/lambda_function.py(./Task-3/lambda_function.py)
+
 ```
 
 Deploy the function after replacing the code.
